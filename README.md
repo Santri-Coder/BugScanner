@@ -1,19 +1,21 @@
-webpwn3r
+BugScanner
 ========
 
 This project is not maintained for years, and was written when I started learning Python, but still people likes it :D. it only supports python2.7
 
-WebPwn3r - Web Applications Security Scanner.
 
-By Ebrahim Hegazy - @Zigoo0
+Bug Scanner site- Web Applications Security Scanner.
+
+By Azzkury eL Asya
 
 Thanks: @lnxg33k, @dia2diab @Aelhemily, @okamalo 
 
-Please send all your feedback and suggestions to: zigoo.blog['at']@gmail.com
+Please send all your feedback and suggestions to: santricoder@gmail.com
 
 How to use:
 
-1- python scan.py
+1- cd BugScanner
+   python2 scan.py
 
 2- The tool will ask you if you want to scan URL or List of urls?
 
@@ -25,11 +27,11 @@ How to use:
 
 .e.g http://localhost/rand/news.php?com=val&id=11&page=24&text=zigoo
 
-same thing with the list of links.
 
-Demo Video: https://www.youtube.com/watch?v=B6kDUk-ehOE
 
-In it’s Current Public [Demo] version, WebPwn3r got below Features:
+
+
+
 
 1- Scan a URL or List of URL’s
 
